@@ -12,3 +12,4 @@ C:\Users\user\Desktop\C# HW2 W1 M2\task10\obj\Debug\net9.0\refint\task10.dll
 C:\Users\user\Desktop\C# HW2 W1 M2\task10\obj\Debug\net9.0\task10.pdb
 C:\Users\user\Desktop\C# HW2 W1 M2\task10\obj\Debug\net9.0\task10.genruntimeconfig.cache
 C:\Users\user\Desktop\C# HW2 W1 M2\task10\obj\Debug\net9.0\ref\task10.dll
+C:\Users\user\Desktop\C# HW2 W1 M2\task10\obj\Debug\net9.0\task10.sourcelink.json

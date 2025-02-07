@@ -12,3 +12,4 @@ C:\Users\user\Desktop\C# HW2 W1 M2\task6\obj\Debug\net9.0\refint\task6.dll
 C:\Users\user\Desktop\C# HW2 W1 M2\task6\obj\Debug\net9.0\task6.pdb
 C:\Users\user\Desktop\C# HW2 W1 M2\task6\obj\Debug\net9.0\task6.genruntimeconfig.cache
 C:\Users\user\Desktop\C# HW2 W1 M2\task6\obj\Debug\net9.0\ref\task6.dll
+C:\Users\user\Desktop\C# HW2 W1 M2\task6\obj\Debug\net9.0\task6.sourcelink.json
